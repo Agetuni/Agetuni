@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aleazar ylma, a full-time full-stack developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Aleazar yilma, a full-time full-stack developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on E-visa system for ethiopian government.  
@@ -99,11 +99,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
