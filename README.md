@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Aleazar yilma, a full-time full-stack developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Aleazar yilma, a full-time Full-Stack Developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on E-visa system for ethiopian government.  
+- 🔭 I’m currently working on E-visa system for the Ethiopian government.  
   
 
 - 🌱 I’m currently learning Kubernetes  
