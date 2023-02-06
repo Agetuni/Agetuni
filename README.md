@@ -6,9 +6,9 @@
 ### <div align="center">I'm Aleazar yilma, a full-time Full-Stack Developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working fore Ethiopian Airlines.    
+- 🔭 I’m currently working for Ethiopian Airlines.    
 
-- 🌱 I’m currently learning about my microservice.    
+- 🌱 I’m currently learning about my microservices.    
 
 - ❓ Ask me about anything related to .Net framework and related technologies  
   
