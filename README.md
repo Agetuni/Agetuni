@@ -6,13 +6,11 @@
 ### <div align="center">I'm Aleazar yilma, a full-time Full-Stack Developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on E-visa system for the Ethiopian government.  
-  
+- 🔭 I’m currently working fore Ethiopian Airlines.    
 
-- 🌱 I’m currently learning Kubernetes  
-  
+- 🌱 I’m currently learning about my microservice.    
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to .Net framework and related technologies  
   
 
 <br/>  
