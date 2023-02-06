@@ -94,9 +94,9 @@
 
 ## Github Stats  
 <<p align="center">
-<a href="https://github.com/agetuni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cmolinan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Carlos's github stats" /></a>
-| <a href="https://github.com/agetuni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmolinan&layout=compact&theme=buefy&hide_border=true" /></a> |
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agetuni&theme=" alt="cmolinan" /></p>
+<a href="https://github.com/agetuni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agetuni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Carlos's github stats" /></a>
+| <a href="https://github.com/agetuni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agetuni&layout=compact&theme=buefy&hide_border=true" /></a> |
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agetuni&theme=" alt="agetuni" /></p>
 </p>
 <br> 
 
